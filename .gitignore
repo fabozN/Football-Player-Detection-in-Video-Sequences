@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+venv/
+
+runs/
+debugs/
+
+data/
+dataset_bundesliga/
+dataset_combined/
+
+*.pt
+
+*.zip
+*.tmp

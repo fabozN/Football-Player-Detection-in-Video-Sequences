@@ -12,6 +12,6 @@ Risultati esemplificativi sono disponibili al seguente link Google Drive:
 [Link to the Drive folder](https://drive.google.com/drive/folders/1dTUx-vc6fisWk62uoVUkqJzUdJ_kvCzc?usp=drive_link)
 
 In particolare: 
-- Output finali dei vari approcci, fatta eccezione per il modello fine-tuned, eslcusivamente per il mio primo frame relativo al test su cui sono state calcoalte le metriche (debug_sample/)
+- Output finali dei vari approcci, fatta eccezione per il modello fine-tuned, eslcusivamente per il mio primo frame relativo al test su cui sono state calcolate le metriche (debugs_sample/)
 - Output finali del modello fine-tuned, sul medesimo frame per le sequenze trattate e su un sottoinsieme di frames per il nuovo dataset della Bundesliga (runs_sample/)
 
